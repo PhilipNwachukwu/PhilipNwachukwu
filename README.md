@@ -8,8 +8,8 @@ I'm a Cloud/DevOps Engineer.  I'm passionate about sharing knowledge.
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Git, Virtualization, CI/CD, Linux.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Cloud Engineer or DevOps Engineer (Intern or Junior level).
+- 🌱 I’m currently learning Web Development (HTML, CSS, Javascript), Source Code Management (Git, Github), Virtualization (VMWare, Virtual Box), CI/CD (Jenkins), Linux, Configuration Management (Ansible, Chef, Puppet) Container and Container Orchestration (Docker, Kubernates) Cloud Services (AWS, Azure. GCP)
+- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities DevOps Opportunities.
+- 💼 Job interests: Cloud Engineer DevOps Engineer (Intern or Junior level) Application/Technical Support Engineer.
 - 📫 You can [view my resume](#) and contact me by emailing me at philip.i.nwachukwu@gmail.com
 
